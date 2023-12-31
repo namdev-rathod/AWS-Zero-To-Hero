@@ -2,7 +2,7 @@
 > [!NOTE]  
 > This is just for a educational purpose. Please execute each steps on your own risk.
 
-> YouTube Playlist :- https://www.youtube.com/watch?v=ArzOrJfTr_0&list=PLqdbsgoG9hwUjSG-8EB46T880H_uqG60f
+> **YouTube Complete Playlist:-** https://www.youtube.com/watch?v=ArzOrJfTr_0&list=PLqdbsgoG9hwUjSG-8EB46T880H_uqG60f
 
 # Day-1 : AWS Introduction
 
