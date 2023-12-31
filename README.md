@@ -8,11 +8,11 @@
 
 # Day-3 : Load Balancer
 
-# Day-4 : Auto Scalin Group
+# Day-4 : Auto Scaling Group
 
 # Day-5 : S3 - Simple Storage Service
 
-# Day-6 : IAM
+# Day-6 : IAM - Identity Access Management
 
 # Day-7 : CloudWatch, CloudTrail & SNS
 
