@@ -6,17 +6,17 @@
 
 # Day-2 : EC2 - Elastic Cloud Computing
 
-# Day-3 : AWS Introduction
+# Day-3 : Load Balancer
 
-# Day-4 : AWS Introduction
+# Day-4 : Auto Scalin Group
 
-# Day-5 : AWS Introduction
+# Day-5 : S3 - Simple Storage Service
 
-# Day-6 : AWS Introduction
+# Day-6 : IAM
 
-# Day-7 : AWS Introduction
+# Day-7 : CloudWatch, CloudTrail & SNS
 
-# Day-8 : AWS Introduction
+# Day-8 : RDS - Relational Database Service
 
 # Day-9 : AWS Introduction
 
@@ -58,6 +58,6 @@
 
 # Day-28 : AWS Introduction
 
-# Day-29 : AWS Introduction
+# Day-29 : ChatGPT For AWS
 
 # Day-30 : AWS Interview Questions
