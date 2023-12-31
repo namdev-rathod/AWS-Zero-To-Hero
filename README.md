@@ -1,4 +1,4 @@
-# AWS-7Days-Free-BootCamp
+# AWS-Zero-To-Hero
 > [!NOTE]  
 > This is just for a educational purpose. Please execute each steps on your own risk.
 
