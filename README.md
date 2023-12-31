@@ -1,4 +1,4 @@
-# AWS-Zero-To-Hero - **Coming Soon**
+# AWS Zero To Hero - Coming Soon
 > [!NOTE]  
 > This is just for a educational purpose. Please execute each steps on your own risk.
 
